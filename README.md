@@ -88,11 +88,7 @@ Experiência acadêmica em Ciência de dados (Python)
 
 
 <div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alynemoura/alynemoura/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/alynemoura/alynemoura/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/alynemoura/alynemoura/blob/output/ocean.gif" />
-  </picture>
+<img src="https://raw.githubusercontent.com/alynemoura/alynemoura/output/snake.svg" alt="Snake animation" />
 </div>
 
 
