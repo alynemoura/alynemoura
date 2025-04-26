@@ -87,10 +87,13 @@ Experiência acadêmica em Ciência de dados (Python)
 
 
 
-<div style="text-align: center;">
-	<img src="https://raw.githubusercontent.com/alynemoura/alynemoura/output/snake.svg" alt="Snake animation" />
-</div>
+
 
 
 
 </p>
+
+
+<div style="text-align: center;">
+	<img src="https://raw.githubusercontent.com/alynemoura/alynemoura/output/snake.svg" alt="Snake animation" />
+</div>
