@@ -1,8 +1,8 @@
-# 👩🏽‍💻 Alyne Moura
+# 👩🏽‍💻 Aline Moura
 
 Bem-vindos ao meu github! Vamos compartilhar conhecimentos e trocar ideias!
 
-Alyne é uma analista de sistemas em constante evolução, com foco em transformar dados em insights valiosos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Estácio de Sá e também me dedico em especial para a área de Ciência de Dados onde sigo aprendendo bastante no curso de Microsoft Power BI para Business Intelligence e Ciência de Dados na plataforma Data Science Academy.
+Aline é uma analista de sistemas em constante evolução, com foco em transformar dados em insights valiosos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Estácio de Sá e também me dedico em especial para a área de Ciência de Dados onde sigo aprendendo bastante no curso de Microsoft Power BI para Business Intelligence e Ciência de Dados na plataforma Data Science Academy.
 
 Meu objetivo é aplicar meus conhecimentos para a criação de soluções de dados que melhorem a vida das pessoas. Acredito que a Ciência de Dados tem o potencial de revolucionar diversos setores e estou ansiosa para aplicar meus conhecimentos em projetos que gerem impacto positivo na sociedade.
 
