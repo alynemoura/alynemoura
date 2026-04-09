@@ -23,6 +23,8 @@ Experiência acadêmica em Ciência de dados (Python)
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/alynemoura?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
+		<!-- MySQL -->
+![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-f29224?style=for-the-badge&logo=mysql&logoColor=white&labelColor=e07e1a)
     </a>
 </p>
 
