@@ -57,6 +57,13 @@ Experiência acadêmica em Ciência de dados (Python)
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000"     
 />
+<img 
+	width="100" 
+	height="100" 
+	alt="image" 
+	src="https://github.com/user-attachments/assets/17d7aaec-4afa-4428-abd8-c59c8f0f540b" 
+/>
+
 <br/>
 <br/>
 
