@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Aline
 
-🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
+🎓 **Formada em Análise e Desenvolvimento de Sistemas**  
 📊 **Especialista em Business Intelligence**  
 🚀 Atualmente aprofundando conhecimentos em **Python, SQL e Power BI** para migrar para Análise de Dados com programação.
 
