@@ -46,3 +46,5 @@ Estou aprendendo a **construir as soluções por trás dos dashboards** — com 
 ---
 
 > “Dados são o novo petróleo, mas só valem algo se refinados com técnica e propósito.”
+
+![Snake animation](https://raw.githubusercontent.com/alynemoura/alynemoura/output/snake.svg)
